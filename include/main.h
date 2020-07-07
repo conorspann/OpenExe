@@ -1,7 +1,7 @@
 
+#ifndef MAIN_H
+#define MAIN_H
 
-#ifndef __MAIN_H__
-#define __MAIN_H__
+int openexe_execute(std::string pathToExe, std:vector<std::string> cmdArgs)
 
-
-#endif // __MAIN_H__
+#endif // MAIN_H
