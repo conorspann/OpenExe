@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1594213436 source:c:\users\conor\documents\dev\openexe\src\main.cpp
+1594223032 source:c:\users\conor\documents\dev\openexe\src\main.cpp
 	<string>
 	<vector>
 	<iostream>
 	"../include/main.h"
+	"windows.h"
 
-1594212640 c:\users\conor\documents\dev\openexe\include\main.h
+1594223043 c:\users\conor\documents\dev\openexe\include\main.h
 
